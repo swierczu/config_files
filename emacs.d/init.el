@@ -185,5 +185,14 @@
              (make-local-variable 'resize-minibuffer-window-max-height)
              (setq resize-minibuffer-window-max-height 1))))
 
-              
+
+;; ---------------------------------------------------------------------------
+;; Flyspell settings  
+;; ---------------------------------------------------------------------------
+
+(autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
+(put 'LeTex-mode 'flyspell-mode-predicate 'tex-mode-flyspell-verify)
+(setq ispell-program-name "aspell")
+(setq ispell-list-command "list")
+(setq ispell-dictionary "english")
 
