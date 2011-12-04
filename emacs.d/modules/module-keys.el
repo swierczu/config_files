@@ -17,6 +17,8 @@
 (global-set-key (kbd "s-o") 'jl-jump-backward)
 (global-set-key (kbd "s-i") 'jl-jump-forward)
 (global-set-key "%" 'custom-match-paren)
+(global-set-key (kbd "C-c t") 'multi-term-next)
+(global-set-key (kbd "C-c T") 'multi-term) 
 ;; autocompltion - remap default M-/ if auto-complete is available
 (when (fboundp 'auto-complete)
   (global-set-key (kbd "M-/") 'auto-complete))

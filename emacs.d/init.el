@@ -150,6 +150,11 @@
 ;; TRAMP use ssh
 (setq tramp-default-method "ssh")  
 
+;; multi-term
+(autoload 'multi-term "multi-term" nil t)
+(autoload 'multi-term-next "multi-term" nil t)
+(setq multi-term-program "/usr/bin/zsh")
+
 ;; load color theme
 (load "naquadah-theme")
 
