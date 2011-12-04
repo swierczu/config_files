@@ -201,3 +201,9 @@
 (setq ispell-list-command "list")
 (setq ispell-dictionary "english")
 
+;; ---------------------------------------------------------------------------
+;; OSX specific settings  
+;; ---------------------------------------------------------------------------
+
+(if (eq window-system 'ns)
+    (setq mac-right-option-modifier nil) )
