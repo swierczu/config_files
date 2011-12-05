@@ -53,9 +53,6 @@
 ;; Editor settings
 ;; ---------------------------------------------------------------------------
 
-;; Font size
-(set-face-attribute 'default nil :height 120) 
-
 ;; Don't show startup screen
 (setq inhibit-startup-screen t)               
 
@@ -202,8 +199,17 @@
 (setq ispell-dictionary "english")
 
 ;; ---------------------------------------------------------------------------
-;; OSX specific settings  
+;; System dependent settings  
 ;; ---------------------------------------------------------------------------
 
 (if (eq window-system 'ns)
-    (setq mac-right-option-modifier nil) )
+    (progn ; OSX specific settings
+      (message "Emacs is running on OSX")
+      (setq mac-right-option-modifier nil) )
+  (if (eq window-system 'x)
+      (progn ; XWindow specific settings
+        (message "Emacs is running with XWindow")
+        (set-face-attribute 'default nil :height 80) ) 
+    (if (eq window-system 'w32)
+      (progn ; Win32 specific settings
+        (message "Emacs is running on Win32") ) ) ) )
