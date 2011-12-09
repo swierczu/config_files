@@ -48,6 +48,7 @@
 (require 'module-custom-func)
 (require 'module-keys)
 (require 'module-autocompletion)
+(require 'module-orgmode)
 
 ;; ---------------------------------------------------------------------------
 ;; Editor settings
