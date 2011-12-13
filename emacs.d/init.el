@@ -106,6 +106,9 @@
 ;; move scrollbar to right                       
 (set-scroll-bar-mode 'right)
 
+;; switch off bell sound
+(setq visible-bell t)
+
 ;; replace y-e-s by y
 (fset 'yes-or-no-p 'y-or-n-p)
 
