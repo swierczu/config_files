@@ -95,7 +95,7 @@
 (setq transient-mark-mode t)
 
 ;; show line numbers                  
-(global-linum-mode t)
+;; (global-linum-mode t) - switched off due to conflict with org-mode
 
 ;; show line number in status bar                         
 (line-number-mode t)             
