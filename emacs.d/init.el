@@ -49,6 +49,7 @@
 (require 'module-keys)
 (require 'module-autocompletion)
 (require 'module-orgmode)
+(require 'module-devel)
 
 ;; ---------------------------------------------------------------------------
 ;; Editor settings
