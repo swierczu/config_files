@@ -1,0 +1,38 @@
+;; -*- emacs-lisp -*-
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["ftp" "tanibak_soccer" "ftp.tanibak.nazwa.pl" nil]
+  ("started" t))
+ (["ssh" "swierczu" "neo.dmcs.pl" nil]
+  ("uname" "Linux 2.4.29-rc1")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/usr/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/home/swierczu"))
+ (["ssh" "swierczu" "neo.dmcs.p.lodz.pl" nil]
+  ("uname" "Linux 2.4.29-rc1")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/usr/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/home/swierczu"))
+ (["ssh" nil "neo.dmcs.pl" nil]
+  ("uname" "Linux 2.4.29-rc1")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/usr/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("~" "/home/swierczu")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl"))
+ (["ssh" nil "ftp" nil]
+  nil)
+ (["ftp" "open-rnd_www" "ftp.open-rnd.nazwa.pl" nil]
+  ("started" t))
+ (["sftp" "open-rnd_www" "ftp.open-rnd.nazwa.pl" nil]
+  nil))

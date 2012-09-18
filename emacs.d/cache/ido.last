@@ -1,0 +1,184 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/swierczu/projects/open-rnd/open-rnd.management/" . "Meetings/")
+ ("/Users/swierczu/projects/open-rnd/" . "open-rnd.management/")
+ ("/Users/swierczu/projects/mobi-net/TaniBak/src/com/tanibak/" . "db/")
+ ("/Users/swierczu/projects/mobi-net/TaniBak/src/com/" . "tanibak/")
+ ("/Users/swierczu/projects/mobi-net/TaniBak/src/" . "com/")
+ ("/Users/swierczu/projects/mobi-net/TaniBak/" . "src/")
+ ("/Users/swierczu/projects/android-stud/smob3/src/dmcs/" . "pl/")
+ ("/Users/swierczu/projects/android-stud/smob3/src/" . "dmcs/")
+ ("/Users/swierczu/projects/android-stud/" . "smob3/")
+ ("/ssh:swierczu@neo.dmcs.pl:/www/podyplomowe_smtm/" . "smob3/")
+ ("/ssh:swierczu@neo.dmcs.pl:/www/" . "podyplomowe_smtm/")
+ ("/Users/swierczu/Library/" . "Preferences/")
+ ("/Users/swierczu/projects/android/TaniBak/src/com/tanibak/" . "ui/")
+ ("/Users/swierczu/projects/android/TaniBak/src/com/" . "tanibak/")
+ ("/Users/swierczu/projects/android/TaniBak/src/" . "com/")
+ ("/Users/" . "swierczu/")
+ ("/Users/swierczu/" . "projects/")
+ ("/Users/swierczu/projects/android/TaniBak/server/" . "php/")
+ ("/Users/swierczu/projects/android/TaniBak/" . "src/")
+ ("/Users/swierczu/projects/android/" . "TaniBak/")
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/data/" . "common/")
+ ("/Users/swierczu/projects/mobi-net/tanibak/" . "server/")
+ ("/Users/swierczu/projects/mobi-net/" . "TaniBak/")
+ ("/Users/swierczu/projects/" . "open-rnd/")
+ ("/ssh:neo.dmcs.pl:/www/" . "podyplomowe_smtm/")
+ ("/Users/swierczu/projects/proximetry/etwlu/" . "web_ui/")
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/" . "data/")
+ ("/Users/swierczu/tmp/przyklad/" . "serwer_udp_iteracyjny/")
+ ("/Users/swierczu/Documents/" . "Dropbox/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/swierczu/Desktop/"
+ "/Users/swierczu/projects/open-rnd/open-rnd.management/Meetings/"
+ "~/"
+ "~/Desktop"
+ "~/Documents"
+ "~/code"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "meeting.txt"
+ "2012.08.10_minutes.txt"
+ "2012.08.10_minutes.org"
+ "StationDBManager.java"
+ "StationsDB.java"
+ "ThirdActivity.java"
+ ".emacs"
+ "index.html"
+ "menu.xml"
+ "MenuActivity.java"
+ "StationsListActivity.java"
+ "style.css"
+ "Preferences.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/swierczu/Desktop/" (20544 47851) "WP_logi.zip" "WP_logi.txt" "POLCARD - transakcje bezgotówkowe.pdf" "Ogloszenie_10.pdf" "itaxi.org" "elementy_zegarek.txt" "check_spot.org" "2012.08.16_dzielo.pdf" "2012.08.16_dzielo.doc" "127 Hours {2010} DVDRIP. Jaybob/" ".localized" ".DS_Store" ".#meeting.txt" ".#elementy_zegarek.txt" "../" "./")
+
+ ("~/Documents" (20438 27661) "Virtual Machines.localized/" "TomTom/" "Outlook Temp/" "My Kindle Content/" "My Drawings/" "Microsoft User Data/" "Library/" "iChats/" "Firefox Sync Key.html" "docs/" "aMule Downloads/" "Adobe/" ".localized" ".DS_Store" "../" "./")
+
+ ("~/Desktop" (20544 47821) "WP_logi.zip" "WP_logi.txt" "POLCARD - transakcje bezgotówkowe.pdf" "Ogloszenie_10.pdf" "itaxi.org" "elementy_zegarek.txt" "check_spot.org" "2012.08.16_dzielo.pdf" "2012.08.16_dzielo.doc" "127 Hours {2010} DVDRIP. Jaybob/" ".localized" ".DS_Store" ".#elementy_zegarek.txt" "../" "./")
+
+ ("~/" (20542 42820) "VM/" "tmp/" "tj3webd.log" "Thumbs.db" "src/" "Send Registration" "Public/" "projects/" "Pictures/" "News/" "Music/" "Movies/" "Mail/" "Library/" "java0.log" "ganttproject.log" "Dropbox/" "Downloads/" "Documents/" "developer_profile.export.developerprofile" "Desktop/" "Applications/" "1.jpg" ".zshrc.new" ".zshrc" ".zprofile.new" ".zprofile" ".zcompdump" ".xnviewmp/" ".Xcode/" ".Xauthority" ".worker/" ".w3m/" ".vimrc" ".vimperator/" ".viminfo" ".vim/" ".Trash/" ".thumbnails/" ".test.txt.swp" ".taskrc" ".task/" ".Synkron/" ".swt/" ".svk/" ".subversion/" ".ssh/" ".sqlite_history" ".sh_history" ".serverauth.80527" ".serverauth.404" ".serverauth.28429" ".serverauth.16398" ".serverauth.1422" ".semanticdb/" ".scanview.cfg" ".recentf" ".Rapp.history" ".qalculate/" ".putty/" ".psql_history" ".profile" ".netbeans-derby/" ".netbeans/" ".nchsoftware/" ".nbprofiler/" ".mysql_history" ".mplayer/" ".mono/" ".mldonkey/" ".mc/" ".magicdraw/" ".macports/" ".m2/" ".LuminanceHDR/" ".local/" ".lftp/" ".lesshst" ".java_history" ".ispagpro/" ".ipython/" ".InstallAnywhere/" ".inkscape-etc/" ".ido.last" ".htoprc" ".history" ".hgignore_global" ".gtk-bookmarks" ".gnupg/" ".gnome2_private/" ".gnome2/" ".globash/" ".gitk" ".gitconfig" ".gimp-2.6/" ".gem/" ".gdb_history" ".gconfd/" ".gconf/" ".ganttproject" ".freemind/" ".fonts/" ".fontconfig-2.4/" ".fontconfig/" ".filezilla/" ".eshell/" ".emacs.d/" ".emacs.bmk" ".emacs" ".easytag/" ".dvdcss/" ".DS_Store" ".dropbox/" ".designer/" ".dbus-keyrings/" ".cups/" ".config/" ".CFUserTextEncoding" ".ccaldbImports.db" ".ccaldb.db" ".cache/" ".bashrc.new" ".bashrc" ".bashish/" ".bash_history" ".aspell.pl.pws" ".aspell.pl.prepl" ".android/" ".adobe/" "../" "./")
+
+ ("/Users/swierczu/projects/open-rnd/open-rnd.management/Meetings/" (20517 27923) "2012.08.10_minutes.txt" "2012.08.10_minutes.org" "2012.08.02_minutes.txt" "2012.08.02_minutes.org" "2012.07.10_minutes.txt" "2012.07.10_minutes.org" "2012.06.18_minutes.txt" "2012.06.18_minutes.org" "2012.06.11_minutes.txt" "2012.06.11_minutes.org" "2012.06.08_minutes.txt" "2012.06.08_minutes.org" "2012.05.31_minutes.txt" "2012.05.31_minutes.org" "2012.05.28_minutes.txt" "2012.05.28_minutes.org" "2012.05.22_minutes.txt" "2012.04.06_minutes.txt" "../" "./")
+
+ ("/Users/swierczu/projects/open-rnd/open-rnd.management/" (20444 26843) "Trainings/" "Topics/" "Presentations/" "Offers/" "Meetings/" "Management/" "Ideas/" "Graphics/" "Grants/" "CVs/" "Contacts/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/projects/open-rnd/" (20516 53492) "open-rnd.www/" "open-rnd.project.wwfpolska_reader/" "open-rnd.project.konwerter/" "open-rnd.project.gazeta.pl_reader/" "open-rnd.management/" "open-rnd.arynga.carsync/" "loclib/" "itaxi/" "demo/" "carsync/" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/projects/" (20381 8308) "www/" "teleca/" "proximetry/" "programy/" "open-rnd/" "mobi-net/" "linux/" "kropkacom/" "intercon/" "inovatica/" "github/" "expanse/" "dmcs/" "android/" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/" (20517 20049) "VM/" "tmp/" "tj3webd.log" "Thumbs.db" "src/" "Send Registration" "Public/" "projects/" "Pictures/" "News/" "Music/" "Movies/" "Mail/" "Library/" "java0.log" "ganttproject.log" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" "1.jpg" ".zshrc.new" ".zshrc" ".zprofile.new" ".zprofile" ".zcompdump" ".xnviewmp/" ".Xcode/" ".Xauthority" ".worker/" ".w3m/" ".vimrc" ".vimperator/" ".viminfo" ".vim/" ".Trash/" ".thumbnails/" ".test.txt.swp" ".taskrc" ".task/" ".Synkron/" ".swt/" ".svk/" ".subversion/" ".ssh/" ".sqlite_history" ".sh_history" ".serverauth.80527" ".serverauth.404" ".serverauth.28429" ".serverauth.16398" ".serverauth.1422" ".semanticdb/" ".scanview.cfg" ".recentf" ".Rapp.history" ".qalculate/" ".putty/" ".profile" ".netbeans-derby/" ".netbeans/" ".nchsoftware/" ".nbprofiler/" ".mysql_history" ".mplayer/" ".mono/" ".mldonkey/" ".mc/" ".magicdraw/" ".macports/" ".m2/" ".LuminanceHDR/" ".local/" ".lftp/" ".lesshst" ".java_history" ".ispagpro/" ".ipython/" ".InstallAnywhere/" ".inkscape-etc/" ".ido.last" ".htoprc" ".history" ".hgignore_global" ".gtk-bookmarks" ".gnupg/" ".gnome2_private/" ".gnome2/" ".globash/" ".gitk" ".gitconfig" ".gimp-2.6/" ".gem/" ".gdb_history" ".gconfd/" ".gconf/" ".ganttproject" ".freemind/" ".fonts/" ".fontconfig-2.4/" ".fontconfig/" ".filezilla/" ".eshell/" ".emacs.d/" ".emacs.bmk" ".emacs" ".easytag/" ".dvdcss/" ".DS_Store" ".dropbox/" ".designer/" ".dbus-keyrings/" ".cups/" ".config/" ".CFUserTextEncoding" ".ccaldbImports.db" ".ccaldb.db" ".cache/" ".bashrc.new" ".bashrc" ".bashish/" ".bash_history" ".aspell.pl.pws" ".aspell.pl.prepl" ".android/" ".adobe/" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/TaniBak/src/com/tanibak/db/" (20040 18581) "StationsDBListAdapter.java" "StationsDB.java" "StationDBManager.java" "GetRemoteDB.java" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/TaniBak/src/com/tanibak/" (20149 33722) "util/" "ui/" "TaniBak.java" "StationsListActivity.java" "ShowTextActivity.java" "SetNewActivity.java" "PrefActivity.java" "PetrolMapActivity.java" "MenuActivity.java" "InfoActivity.java" "db/" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/TaniBak/src/com/" (19915 48282) "tanibak/" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/TaniBak/src/" (20039 4902) "com/" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/TaniBak/" (20039 46265) "src/" "server/" "res/" "proguard.cfg" "market/" "key/" "gen/" "doc/" "default.properties" "bin/" "assets/" "AndroidManifest.xml" ".settings/" ".project" ".git/" ".classpath" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/" (20173 15977) "TaniBak/" "../" "./")
+
+ ("/Users/swierczu/projects/android/" (20173 15977) "vortex-part-v/" "soccer-champs/" "mgr_sokolowski/" "GameTemplate/" "Database demo/" "Cocos2DSimpleGameTut1/" "cocos2d-android/" "android-gamedev/" ".metadata/" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/projects/android-stud/" (20177 61716) "smob3b/" "smob3_wyklad.zip" "smob3/" "firstPrj/" "FirstApp/" ".metadata/" "../" "./")
+
+ ("/Users/swierczu/projects/android-stud/smob3/src/dmcs/pl/" (20168 60059) "ThirdActivity.java" "SecondActivity.java" "FirstActivity.java" "../" "./")
+
+ ("/Users/swierczu/projects/android-stud/smob3/src/dmcs/" (20167 45533) "pl/" "../" "./")
+
+ ("/Users/swierczu/projects/android-stud/smob3/src/" (20167 45533) "dmcs/" "../" "./")
+
+ ("/Users/swierczu/projects/android-stud/smob3/" (20176 52405) "src/" "res/" "project.properties" "proguard.cfg" "gen/" "bin/" "assets/" "AndroidManifest.xml" ".settings/" ".project" ".classpath" "../" "./")
+
+ ("/Users/swierczu/.android/avd/" (20167 44725) "testowy.ini" "testowy.avd/" "ag2.3.ini" "ag2.3.avd/" "ag2.2.ini" "ag2.2.avd/" "ag2.1-wvga854.ini" "ag2.1-wvga854.avd/" "ag2.1-wvga800.ini" "ag2.1-wvga800.avd/" "ag2.1-qvga.ini" "ag2.1-qvga.avd/" "ag2.1-hvga.ini" "ag2.1-hvga.avd/" "../" "./")
+
+ ("/Users/swierczu/projects/android-stud/FirstApp/src/pl/dmcs/" (20149 32247) "SecondActivity.java" "FirstActivity.java" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/src/com/tanibak/" (20149 33722) "util/" "ui/" "TaniBak.java" "StationsListActivity.java" "ShowTextActivity.java" "SetNewActivity.java" "PrefActivity.java" "PetrolMapActivity.java" "MenuActivity.java" "InfoActivity.java" "db/" "../" "./")
+
+ ("/Users/swierczu/tmp/" (20167 33613) "Thumbs.db" "test.d" "menu.xml" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/Library/Preferences/Aquamacs Emacs/" (20146 63588) "Recent Files.el" "Preferences.el" "places.el" "minibuffer-history.el" "frame-positions.el" "customizations.el" "auto-save-list/" ".id" "../" "./")
+
+ ("/Users/swierczu/Library/Preferences/" (20146 63540) "widget-com.apple.widget.worldclock.plist" "widget-com.apple.widget.weather.plist.j9RfdNa" "widget-com.apple.widget.weather.plist" "widget-com.apple.widget.stickies.plist.A7PNkQf" "widget-com.apple.widget.stickies.plist" "widget-com.apple.widget.dictionary.plist" "widget-com.apple.widget.calendar.plist" "widget-com.apple.widget.addressbook.plist" "VMware Fusion/" "se.konstochvanligasaker.AppTrap.prefpanel.plist" "QuickTime Preferences" "pbs.plist" "org.xnjb.XNJB-0.3.plist" "org.x.X11.plist" "org.virtualbox.app.VirtualBoxVM.plist" "org.virtualbox.app.VirtualBox.plist" "org.vim.MacVim.plist" "org.videolan.vlc.plist" "org.videolan.vlc.LSSharedFileList.plist" "org.videolan.vlc/" "org.scottcbrown.xact.plist" "org.R-project.R.plist" "org.perian.Perian.plist" "org.mozilla.plugincontainer.plist" "org.mozilla.firefox.plist" "org.mozilla.camino.plist" "org.mgorbach.macfusion2.plist" "org.m0k.transmission.plist" "org.m0k.transmission.LSSharedFileList.plist" "org.m0k.handbrake.plist" "org.libreoffice.script.plist" "org.libreoffice.script.LSSharedFileList.plist" "org.kismac-ng.kismac.plist" "org.gnu.Aquamacs.plist" "org.eclipse.eclipse.plist" "nl.frim.GitX.plist" "nl.frim.GitX.LSSharedFileList.plist" "net.sourceforge.skim-app.skim.plist" "net.sourceforge.skim-app.skim.LSSharedFileList.plist" "net.sourceforge.skim-app.skim.bookmarks.plist" "net.sf.Jumpcut.plist" "net.kovidgoyal.calibre.plist" "net.kadu.plist" "net.hartungdesign.PixelWalker.plist" "Microsoft/" "Maxtor/" "Macromedia/" "loginwindow.plist" "Lingsoft" "KDE/" "italian.grammar.profiles" "iCalExternalSync.plist" "Excalibur Preferences" "edu.ucsd.cs.mmccrack.bibdesk.plist" "edu.ucsd.cs.mmccrack.bibdesk.LSSharedFileList.plist" "edu.bucknell.Excalibur.plist" "eclipse.plist" "DraftSight/" "de.chrisp.AquaLess.plist" "de.chrisp.AquaLess.LSSharedFileList.plist" "cz.or.repo.git-gui.plist" "cx.c3.xee.plist" "com.zakovyrya.ArCHMock.plist" "com.yourcompany.luminance.plist" "com.yourcompany.imagecomposition.plist" "com.yourcompany.application.plist" "com.Wondershare.Fantashow.plist" "com.vmware.fusionDaemon.plist" "com.vmware.fusionDaemon.LSSharedFileList.plist" "com.vmware.fusion.plist" "com.vmware.fusion.LSSharedFileList.plist" "com.trolltech.plist" "com.trolltech.Application Example.plist" "com.tomtom.tomtomhome.plist" "com.skype.skype.plist" "com.seagate.seagatediagnostics.plist" "com.ragingmenace.MenuMeters.plist" "com.piatekjimenez.xrg.plist" "com.omnigroup.OmniDazzle.plist" "com.ohanaware.HDRtist.plist" "com.nokia.QtCreator.plist" "com.microsoft.Word.plist" "com.microsoft.visual_basic.plist" "com.microsoft.Powerpoint.plist" "com.microsoft.Outlook.plist" "com.microsoft.outlook.office_reminders.plist" "com.microsoft.outlook.database_daemon.plist" "com.microsoft.office.setupassistant.plist" "com.microsoft.office.plist" "com.microsoft.myday.plist" "com.microsoft.Messenger.plist" "com.microsoft.Excel.plist" "com.microsoft.error_reporting.plist" "com.microsoft.autoupdate2.plist" "com.matus-tomlein.Synkron.plist" "com.luminance.Luminance.plist" "com.lightdev.app.plist" "com.leadertech.powerReg.plist" "com.latenitesoft.xslimmer.plist" "com.klieme.eyesight.plist" "com.iSkysoft.Video_Converter.plist" "com.hp.print.psdriver.pde.plist" "com.Growl.GrowlHelperApp.plist" "com.googlecode.mactlmgr.tlu.plist" "com.googlecode.iterm2.plist" "com.google.sshfs.plist" "com.google.picasa.plist" "com.google.Keystone.Agent.plist" "com.google.GoogleContactSync.plist" "com.google.GmailNotifier.plist" "com.google.Chrome.plist" "com.google.Chrome.helper.plist" "com.getdropbox.dropbox.plist" "com.geekspiff.chickenofthevnc.plist" "com.freemacsoft.AppCleaner.plist" "com.cod3r.a52codec.plist" "com.cocoatech.PathFinder.plist" "com.cocoatech.PathFinder.LSSharedFileList.plist" "com.arrsync.arrsync.plist" "com.apple.Xcode.plist" "com.apple.universalaccess.plist" "com.apple.TextEdit.plist" "com.apple.TextEdit.LSSharedFileList.plist" "com.apple.Terminal.plist" "com.apple.systemuiserver.plist" "com.apple.systemsound.plist" "com.apple.SystemProfiler.plist" "com.apple.systempreferences.plist" "com.apple.syncserver.plist" "com.apple.symbolichotkeys.plist" "com.apple.storeagent.plist" "com.apple.Stickies.plist" "com.apple.speech.recognition.feedback.prefs.plist" "com.apple.speech.recognition.AppleSpeechRecognition.prefs.plist" "com.apple.soundpref.plist" "com.apple.SoftwareUpdate.plist" "com.apple.sidebarlists.plist" "com.apple.security.plist" "com.apple.ScreenSharing.plist" "com.apple.scheduler.plist" "com.apple.Safari.RSS.plist" "com.apple.Safari.plist" "com.apple.recentitems.plist" "com.apple.QuickTimePlayerX.plist.S3BF4C6" "com.apple.QuickTimePlayerX.plist.KdpH2ah" "com.apple.QuickTimePlayerX.plist.5cQVVra" "com.apple.QuickTimePlayerX.plist" "com.apple.quicktime.plugin.preferences.plist" "com.apple.QuickLookDaemon.plist" "com.apple.PubSubAgent.plist" "com.apple.PTPCamera.plist" "com.apple.print.PrintingPrefs.plist" "com.apple.print.PrinterProxy.plist" "com.apple.print.custompresets.forprinter.HP_Color_LaserJet_CM1312nfi_MFP__4B741C_.plist" "com.apple.print.add.plist" "com.apple.Preview.plist" "com.apple.Preview.LSSharedFileList.plist" "com.apple.Preview.bookmarks.plist" "com.apple.PreferenceSync.plist" "com.apple.preference.desktopscreeneffect.plist" "com.apple.PhotoBooth.plist" "com.apple.NetworkUtility.plist" "com.apple.networkConnect.plist" "com.apple.NetAuthAgent.plist" "com.apple.MobileDeviceCrashCopy.plist" "com.apple.menuextra.clock.plist" "com.apple.menuextra.battery.plist" "com.apple.MassStorageCamera.plist" "com.apple.mail.plist" "com.apple.loginitems.plist" "com.apple.LaunchServices.QuarantineEvents" "com.apple.LaunchServices.plist" "com.apple.java.util.prefs.plist" "com.apple.java.JavaPreferences.plist" "com.apple.JapaneseAnalysis/" "com.apple.iWeb.plist" "com.apple.iTunesHelper.plist" "com.apple.iTunes.plist.XTFAVK3" "com.apple.iTunes.plist.wvSQg9K" "com.apple.iTunes.plist.KLT7XzQ" "com.apple.iTunes.plist.jvR73gQ" "com.apple.iTunes.plist.iWum6hH" "com.apple.iTunes.plist.Gcx2zTN" "com.apple.iTunes.plist.eFNHoe8" "com.apple.iTunes.plist" "com.apple.iTunes.Gracenote.plist" "com.apple.iTunes.eq.plist" "com.apple.isync.plist" "com.apple.iPod.plist" "com.apple.iPhoto.plist" "com.apple.iPhoto.LSSharedFileList.plist" "com.apple.internetconnect.plist" "com.apple.internetconfigpriv.plist" "com.apple.internetconfig.plist" "com.apple.Instruments.plist" "com.apple.iMovieApp.plist" "com.apple.iChatAgent.plist" "com.apple.iChat.SubNet.plist" "com.apple.iChat.StatusMessages.plist" "com.apple.iChat.plist" "com.apple.iChat.Jabber.plist" "com.apple.iChat.AIM.plist" "com.apple.iCal.plist" "com.apple.iCal.helper.plist" "com.apple.iApps.plist.rayhhSl" "com.apple.iApps.plist.CV1tgO3" "com.apple.iApps.plist" "com.apple.helpviewer.plist" "com.apple.help.plist" "com.apple.frontrow.plist" "com.apple.frameworks.diskimages.uiagent.plist" "com.apple.FolderActions.plist" "com.apple.finder.plist" "com.apple.FileMerge.plist" "com.apple.DVDPlayer.plist" "com.apple.driver.AppleBluetoothMultitouch.trackpad.plist" "com.apple.dock.plist" "com.apple.dock.db" "com.apple.DiskUtility.plist" "com.apple.diskimages.fsck" "com.apple.digihub.plist" "com.apple.DictionaryServices.plist" "com.apple.Dictionary.plist" "com.apple.desktop.plist" "com.apple.dashboard.plist" "com.apple.dashboard.client.plist" "com.apple.CoreImageFunHouse.app.plist" "com.apple.Console.plist" "com.apple.Console.LSSharedFileList.plist" "com.apple.Chess.plist" "com.apple.calculator.plist" "com.apple.BluetoothFileExchange.plist" "com.apple.BluetoothAudioAgent.plist" "com.apple.BezelServices.plist" "com.apple.Automator.plist" "com.apple.ATS.plist" "com.apple.archiveutility.plist" "com.apple.appstore.plist" "com.apple.AppleShareClient.plist" "com.apple.airport.airportutility.plist" "com.apple.AddressBook.plist" "com.apple.AddressBook.abd.plist" "com.apple.ActivityMonitor.plist" "com.aone.keka.plist" "com.amazon.Kindle.plist" "com.alittledrop.Porticus.plist" "com.adobe.Reader.plist" "com.adobe.ARM.plist" "com.adiumX.adiumX.plist" "com.3ds.www.DraftSight.plist" "CD Info.cidb" "calibre/" "ByHost/" "Aquamacs Emacs/" "AddressBookMe.plist" ".GlobalPreferences.plist" ".fileList" "../" "./")
+
+ ("/Users/swierczu/Library/PreferencePanes/" (19810 56321) "MenuMeters.prefPane/" "Growl.prefPane/" "../" "./")
+
+ ("/Users/swierczu/Library/" (20112 22753) "Voices/" "VirtualBox/" "TeXworks/" "texlive/" "StickiesDatabase" "Spelling/" "Sounds/" "Screen Savers/" "Saved Searches/" "Safari/" "Recent Servers/" "PubSub/" "Printers/" "Preferences/" "PreferencePanes/" "Phones/" "Mail Downloads/" "Mail/" "Logs/" "LaunchAgents/" "Keychains/" "Keyboard Layouts/" "Kadu/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "iMovie/" "Images/" "Icons/" "Google/" "Fonts Disabled/" "Fonts/" "FontCollections/" "Favorites/" "Cookies/" "Contextual Menu Items/" "Compositions/" "Components/" "Colors/" "ColorPickers/" "Calendars/" "Caches/" "Autosave Information/" "Audio/" "Assistants/" "Application Support/" "Address Book Plug-Ins/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/src/com/tanibak/ui/" (20032 24954) "StationsOverlay.java" "StationListRow.java" "PetrolStationOverlay.java" "MyLocationOverlay.java" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/src/com/" (19915 48282) "tanibak/" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/src/" (20039 4902) "com/" "../" "./")
+
+ ("/Users/" (19778 8425) "swierczu/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/server/php/" (20040 12978) "lib.php" "index.php" "get.php" "../" "./")
+
+ ("/Users/swierczu/Downloads/" (20040 6469) "to_read/" "Thumbs.db" "QT/" "propagacja.pdf" "praca_mgr_bjozwiak21.pdf" "Mazda/" "lmce87.pdf" "lmce86.pdf" "KatanaFlightCharacteristics.pdf" "Informacja prasowa TaniBak 01 06 2011 - bs.doc" "GitXStable.app.zip" "GIMP-2.6.11-Snow-Leopard.dmg" "get.php" "get(1).php" "emacs-a-day-keeps-the-vi-zing-away.pdf" "CE_88.pdf" "Cambridge.Press.Bluetooth.Essentials.for.Programmers.Sep.2007.pdf" "btnaktualizujcene.zip Folder/" "btnaktualizujcene.zip" "aktualizujiorlen.zip" "[www.tnt24.info] Sąsiedzi wszystkie Odcinki.torrent" "[www.tnt24.info] Red Riding Hood - Dziewczyna w czerwonej pelerynie *2011*[BluRay][1080p][Lektor i Napisy PL].torrent" "[www.tnt24.info] Potwory i spółka - Monsters, Inc. *2001* [DVDRip.XviD] [Dubbing PL].torrent" "[www.tnt24.info] Ostatni Władca Wiatru - The Last Airbender *2010*[BluRay][1080p][Dubbing i Napisy PL].torrent" "[www.tnt24.info] Opowieści z Narnii_ Podróż Wędrowca do Świtu  The Chronicles of Narnia_ The Voyage of the Dawn Treader (2010) [R5.XViD-FiRMA][DUBBING PL-KINO].torrent" "[www.tnt24.info] Och Karol 2 (2011) [DVDRip.XviD-B.torrent" "[www.tnt24.info] Czarny, biały i blues - Redemption Road - Black, White and Blues (2011) [DVBRip.XviD-TRODAT][LEKTOR PL].torrent" "[www.tnt24.info] Czarny łabędź - Black Swan [2010]DvDrip[Eng]-FXG [Dramat, Psychologiczny].torrent" "[www.tnt24.info] Angielski w pracy i w podróży[PL][.pdf][.mp3][rambo].torrent" "[www.tnt24.info] Alan Bullock - Hitler - studium tyranii [audiobook PL] [mp3@32] [tomo83].torrent" ".MOV" ".localized" ".DS_Store" ".com.google.chrome.Y4RPL9" ".com.google.chrome.ffsts9" ".com.google.chrome.4CkOtp" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/server/stations/" (20039 58588) "ZP_tmp_table.html" "ZP_table.html" "ZP.html" "WP_tmp_table.html" "WP_table.html" "WP.html" "WN_tmp_table.html" "WN_table.html" "WN.html" "stations.db" "SL_tmp_table.html" "SL_table.html" "SL.html" "SK_tmp_table.html" "SK_table.html" "SK.html" "server_db_data_2.txt" "server_db_data_1.txt" "server_db_create.sql" "PM_tmp_table.html" "PM_table.html" "PM.html" "PK_tmp_table.html" "PK_table.html" "PK.html" "PD_tmp_table.html" "PD_table.html" "PD.html" "OP_tmp_table.html" "OP_table.html" "OP.html" "MZ_tmp_table.html" "MZ_table.html" "MZ.html" "MA_tmp_table.html" "MA_table.html" "MA.html" "LU_tmp_table.html" "LU_table.html" "LU.html" "LD_tmp_table.html" "LD_table.html" "LD.html" "LB_tmp_table.html" "LB_table.html" "LB.html" "KP_tmp_table.html" "KP_table.html" "KP.html" "get_station_list.py" "DS_tmp_table.html" "DS_table.html" "DS.html" "db_data_2.txt" "db_data_1.txt" "db_data.txt" "BeautifulSoup.pyc" "BeautifulSoup.py" "BeautifulSoup-3.2.0/" "backup_station_db" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/server/" (20039 58921) "stations/" "php/" "../" "./")
+
+ ("/Users/swierczu/projects/android/TaniBak/" (20039 46265) "src/" "server/" "res/" "proguard.cfg" "market/" "key/" "gen/" "doc/" "default.properties" "bin/" "assets/" "AndroidManifest.xml" ".settings/" ".project" ".git/" ".classpath" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/data/proximetry/" (20038 25066) "sequoia/" "glacier-aplabs/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/data/proximetry/glacier-aplabs/" (20038 25066) "etwlu-unstable/" "etwlu/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/data/proximetry/glacier-aplabs/etwlu/" (20038 25123) "wimax1_form.js" "wimax1.html" "wimax0_form.js" "wimax0.html" "wifi0_form.js" "wifi0.html" "wait.gif" "upgrade_form.js" "upgrade.html" "sys_form.js" "sys.html" "skeleton.html" "sec_profiles_form.js" "sec_profiles.html" "scan_ints_form.js" "scan_ints.html" "page_body.html" "logs_form.js" "logs.html" "logo.jpg" "index.html" "if_diag_form.js" "if_diag.html" "gui.html" "gsm_form.js" "gsm.html" "gps_form.js" "gps.html" "gpio.html" "global_cc.js" "gen_setup_form.js" "gen_setup.html" "favicon.ico" "eth3_form.js" "eth3.html" "eth2_form.js" "eth2.html" "eth1_form.js" "eth1.html" "eth0_form.js" "eth0.html" "err.html" "config.js" "banner.jpg" "AR922X_cc.js" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/tanibak/server/stations/" (20026 27182) "ZP_tmp_table.html" "ZP_table.html" "ZP.html" "WP_tmp_table.html" "WP_table.html" "WP.html" "WN_tmp_table.html" "WN_table.html" "WN.html" "stations.db_2011.08.03" "stations.db_1" "stations.db" "SL_tmp_table.html" "SL_table.html" "SL.html" "SK_tmp_table.html" "SK_table.html" "SK.html" "PM_tmp_table.html" "PM_table.html" "PM.html" "PK_tmp_table.html" "PK_table.html" "PK.html" "PD_tmp_table.html" "PD_table.html" "PD.html" "OP_tmp_table.html" "OP_table.html" "OP.html" "MZ_tmp_table.html" "MZ_table.html" "MZ.html" "MA_tmp_table.html" "MA_table.html" "MA.html" "LU_tmp_table.html" "LU_table.html" "LU.html" "LD_tmp_table.html" "LD_table.html" "LD.html" "LB_tmp_table.html" "LB_table.html" "LB.html" "KP_tmp_table.html" "KP_table.html" "KP.html" "get_station_list.py" "DS_tmp_table.html" "DS_table.html" "DS.html" "db_data_2.txt" "db_data_1.txt" "db_data.txt" "BeautifulSoup.pyc" "BeautifulSoup.py" "BeautifulSoup-3.2.0/" "backup_station_db_small" "backup_station_db_2011.08.03" "backup_station_db" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/data/common/" (20038 25066) "ui_logic.js" "style_sheet.css" "reboot.html" "log_show_form.js" "log_show.html" "loading.gif" "jquery-1.5.2.min.js" "gui.hdf" "fileuploader.js" "fileuploader.css" "debug_form.js" "debug.html" "commit.html" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/data/" (20038 25066) "proximetry/" "Makefile.in" "Makefile.am" "Makefile" "common/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/" (20038 25066) "web_ui_config.h.in~" "web_ui_config.h.in" "web_ui_config.h" "test.x" "stamp-h1" "src/" "README" "NEWS" "missing" "Makefile.in" "Makefile.am" "Makefile" "ltmain.sh" "local_conf.sh" "libtool" "libfcgi/" "install-sh" "INSTALL" "include/" "depcomp" "data/" "COPYING" "configure.ac" "configure" "config.sub" "config.status" "config.log" "config.guess" "conf/" "ChangeLog" "autom4te.cache/" "AUTHORS" "aclocal.m4" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/" (19841 61136) "xBusTesterS-bin/" "wavesat/" "paradom-nxos/" "paradom/" "kernel-source/" "firmware_architecture/" "etwlu.tar.bz2" "etwlu/" "cm-ima/" "binsdk/" "AirSync-3.3/" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/Documents/Dropbox/" (20020 2331) "Public/" "Photos/" "org-mode/" "misc/" "Icon
+" ".DS_Store" ".dropbox.cache/" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/tanibak/" (20025 55949) "tanibak-review-1.txt" "server/" "backup/" "../" "./")
+
+ ("/Users/swierczu/projects/mobi-net/tanibak/server/" (19994 49775) "stations.tar.bz2" "stations/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/web_ui/src/" (19948 49911) "webui.fcgi" "web_ui.o" "web_ui.c" "web_ui" "Makefile.in" "Makefile.am" "Makefile" "hdf_callbacks.o" "hdf_callbacks.h" "hdf_callbacks.c" ".libs/" ".deps/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/" (19931 14055) "xbus_proxy/" "xbus_cmd/" "xbus/" "www/" "web_ui/" "test_service/" "sqlite3/" "skype" "service_manager/" "runtime_conf/" "paradom-wimax-cpe-host/" "lighttpd/" "libproxutil/" "libimacommon/" "jansson/" "ima_eth/" "GTAGS" "GSYMS" "GRTAGS" "GPATH" "error_logger/" "cscope.out" "cscope.files" "connection_manager/" "configuration_manager/" "clearsilver/" ".DS_Store" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/connection_manager/" (19868 22252) "stamp-h1" "src/" "semantic.cache" "missing" "Makefile.in" "Makefile.am" "Makefile" "ltmain.sh" "libtool" "install-sh" "include/" "depcomp" "configure.ac" "configure" "config.sub" "config.status" "config.log" "config.h.in~" "config.h.in" "config.h" "config.guess" "autom4te.cache/" "aclocal.m4" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/connection_manager/src/" (19931 14000) "wimax_cpe.c" "wifi_sta.c" "wifi_ap.c" "semantic.cache" "Makefile.in" "Makefile.am" "Makefile" "gsm.c" "fifo.h" "fifo.c" "eth.c" "cm_xbus.h" "cm_xbus.c" "cm_wimax_cpe.h" "cm_wifi_sta.h" "cm_wifi_ap.h" "cm_util.o" "cm_util.h" "cm_util.c" "cm_ima.o" "cm_ima.h" "cm_gsm.h" "cm_eth.h" "cm.o" "cm.h" "cm.c" "cm" ".libs/" ".deps/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/configuration_manager/" (19895 17150) "tests/" "stamp-h1" "src/" "semantic.cache" "missing" "Makefile.in" "Makefile.am" "Makefile" "ltmain.sh" "libtool" "libconfm/" "install-sh" "include/" "depcomp" "configure.ac" "configure" "config.sub" "config.status" "config.log" "config.h.in~" "config.h.in" "config.h" "config.guess" "autom4te.cache/" "aclocal.m4" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/swierczu/projects/proximetry/etwlu/configuration_manager/libconfm/" (19897 55310) "semantic.cache" "Makefile.in" "Makefile.am" "Makefile" "libconfm.o" "libconfm.lo" "libconfm.la" "libconfm.c" ".libs/" ".deps/" "../" "./")
+
+ ("/Users/swierczu/tmp/przyklad/serwer_udp_iteracyjny/" (17457 12325) "server.cc" "client.cc" "../" "./")
+
+ ("/Users/swierczu/tmp/przyklad/" (17457 10268) "serwer_udp_wspolbierzny/" "serwer_udp_iteracyjny/" ".icomplete_taglist" "../" "./")
+
+ ("/Users/swierczu/Documents/" (19810 56316) "zamowienie.pdf" "TomTom/" "Sequans.zip" "Sequans/" "Outlook Temp/" "My Kindle Content/" "Microsoft User Data/" "Firefox Sync Key.html" "DU20021321121.pdf" "Dropbox/" "docs/" ".localized" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
